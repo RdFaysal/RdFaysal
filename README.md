@@ -4,7 +4,7 @@
 
 Hi! I a'm Web developer, I a'm learning full-stack Web development and my first priority client satisfied.
 
-Skills: PYTHON/ REACT / JS / HTML / CSS / BOOTSTRAP /
+Skills: PYTHON/ REACT / JS / HTML / CSS / BOOTSTRAP 
 
 - 🔭 I’m currently working on programmingshikbo 
 - 🌱 I’m currently learning Python 
